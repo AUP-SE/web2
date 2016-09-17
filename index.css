@@ -1,0 +1,17 @@
+body {
+  font: normal 2em Verdana;
+  width: 80%;
+  margin: 1em auto;
+}
+h1 {
+  font: italic 3em Georgia;
+  color: rgb(23, 109, 109);
+  margin: 1em 0 1em;
+}
+img {
+  margin: auto;
+  height: 400px;
+}
+footer {
+  color: #666666;
+}
